@@ -29,7 +29,7 @@ def post_json():
         return jsonify({"error": "Нет ключа 'messages' в JSON или 'messages' не является списком"}), 400
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(port=5000)
 
 
 
