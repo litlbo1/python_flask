@@ -1,2 +1,3 @@
 # python_flask
-Flask server python
+Text to speech программа на Flask Python сервере. 
+
